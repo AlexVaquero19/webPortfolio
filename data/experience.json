@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "title": "Desarrollador de Software",
+    "subtitle": "Oribital Critical Systems (CAF)",
+    "link": "https://orbitalcs.com/",
+    "year": "2023",
+    "info": [
+      "- Formación en cursos QML",
+      "- Desarrollo de Prototipo de Interfaz en Figma",
+      "- Desarrollo de Prototipo en Enterprise Arquitect"
+    ]
+  },
+  {
+    "id": "1.1",
+    "title": "Programador C# .NET",
+    "subtitle": "Oribital Critical Systems (Airbus)",
+    "link": "https://orbitalcs.com/",
+    "year": "2022",
+    "info": [
+      "- Creación de una aplicación de escritorio en C# .NET en WPF con .NET 5.",
+      "- Trabajo en metodología Agile.",
+      "- Uso de Material Design para diseño de la Aplicación y MVVM como patrón de diseño.",
+      "- Creación de historias de usuario a través de TFS y recopilar requerimientos del cliente."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Programador C# .NET",
+    "subtitle": "GMV",
+    "link": "https://www.gmv.com/es-es",
+    "year": "2021-2022",
+    "info": [
+      "- Desarrollo y mantenimeinto de un proyecto para la Gestión de Barcos en España en el Departamento de Defensa usando C# .NET Framework 4.5, Visual Studio 2022 y TFS (Team Foundation Server) como control de Código Fuente.",
+      "- Uso de Python 3.10 y Selenium para realizar scraping y obtener información de buques e imágenes de disntinas páginas.",
+      "- Creación de una página web de la que se van a poder descargar los datos de emergencias del año actual y los 3 años anteriores, usando SOAP, AJAX y Web Services."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Desarrollador WEB",
+    "subtitle": "Segundoplano",
+    "link": "https://www.segundoplano.es/",
+    "year": "2021",
+    "info": [
+      "- Desarrollo de un Proyecto desde 0 en PHP (Symfony 5) para gestión de Fincas y Clubs.",
+      "- Mantenimeinto de una página web con un formualario y parte de blog.",
+      "- Mantenimiento de un E-Commerce que se dedica a la venta de radiadores."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Técnico Informático",
+    "subtitle": "Indra (Movistar +)",
+    "link": "https://www.indracompany.com/",
+    "year": "2018",
+    "info": [
+      "- Montaje de estaciones de trabajo, intalación de Sistema Operativo y software."
+    ]
+  }
+]

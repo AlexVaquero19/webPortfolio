@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "DAW",
+    "subtitle": "I.E.S Domenico Scarlatti",
+    "link": "https://www.domenicoscarlatti.es/",
+    "year": "2021",
+    "info": [
+      "- Desarrollo de Aplicaciones Web."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Inglés",
+    "subtitle": "EOI",
+    "link": "https://site.educa.madrid.org/eoi.aranjuez.aranjuez/",
+    "year": "",
+    "info": [
+      "- Escuela Oficial de Idiomas para Certifciación B1."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "SQL",
+    "subtitle": "Openwebinars",
+    "link": "https://openwebinars.net/",
+    "year": "2020",
+    "info": [
+      "- Curso de SQL desde 0."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "SMR",
+    "subtitle": "Centro Hease",
+    "link": "https://www.teideformacion.com/nuestros-centros/centro-hease",
+    "year": "2018",
+    "info": [
+      "- Sistemas Microinformáticos y Redes."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Html CSS JavaScript",
+    "subtitle": "Udemy",
+    "link": "https://www.udemy.com/",
+    "year": "",
+    "info": [
+      "- Curso completo de tecnologías Front."
+    ]
+  }
+]

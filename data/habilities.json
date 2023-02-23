@@ -1,0 +1,153 @@
+[
+  {
+    "id": "1",
+    "skills": {
+      "intermediate": [
+        {
+         "id": "1",
+         "text": "HTML5",
+         "icon": "HTML5"
+        },
+        {
+          "id": "2",
+          "text": "CSS3",
+          "icon": "CSS3"
+        },
+        {
+          "id": "3",
+          "text": "SASS",
+          "icon": "sass",
+          "class": "bg-dark-mode-svg"
+          
+        },
+        {
+          "id": "4",
+          "text": "Bootstrap",
+          "icon": "bootstrap"
+        },
+        {
+          "id": "5",
+          "text": "JavaScript",
+          "icon": "js"
+        },
+        {
+          "id": "6",
+          "text": "jQuery",
+          "icon": "jQuery",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "7",
+          "text": "PHP",
+          "icon": "php",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "8",
+          "text": "Symfony",
+          "icon": "symfony",
+          "imgClass": "bg-dark-mode-svg-rounded"
+        },
+        {
+          "id": "9",
+          "text": "cSharp",
+          "icon": "cSharp"
+        },
+        {
+          "id": "10",
+          "text": ".NET",
+          "icon": "NET"
+        },
+        {
+          "id": "11",
+          "text": "MySql",
+          "icon": "mysql",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "12",
+          "text": "GIT",
+          "icon": "git",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "13",
+          "text": "GitHub",
+          "icon": "github",
+          "imgClass": "bg-dark-mode-svg"
+        }
+      ],
+      "basic": [
+        {
+          "id": "1",
+          "text": "Java",
+          "icon": "java",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "2",
+          "text": "Blazor",
+          "icon": "blazor",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "3",
+          "text": "Python",
+          "icon": "python",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "4",
+          "text": "SQLServer",
+          "icon": "sqlServer",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "5",
+          "text": "Postman",
+          "icon": "postman"
+        }
+      ],
+      "ide": [
+        {
+          "id": "1",
+          "text": "VSCode",
+          "icon": "vscode"
+        },
+        {
+          "id": "2",
+          "text": "VStudio",
+          "icon": "vstudio"
+        },
+        {
+          "id": "3",
+          "text": "DbEaver",
+          "icon": "dbeaver"
+        },
+        {
+          "id": "4",
+          "text": "Sublime Text",
+          "icon": "sublimetext"
+        }
+      ],
+      "hobbies": [
+        {
+          "id": "1",
+          "text": "Videojuegos",
+          "icon": "gamepad",
+          "class": "bg-dark-mode-svg"
+        },
+        {
+          "id": "2",
+          "text": "Series / Pelis",
+          "icon": "tv"
+        },
+        {
+          "id": "3",
+          "text": "Baloncesto",
+          "icon": "basket"
+        }
+      ]
+    }
+  }
+]
