@@ -49,7 +49,7 @@ function Habilities(){
                     {data.skills.basic.map((h) => (
                       <div className="border d-flex p-2 align-items-center fw-bold" key={h.id}>
                         <span className={h.class}>
-                          <img className={`mx-2 ${h.imgClass}`} src={`${window.location.origin}/icons/${h.icon}.svg`} alt={h.text} /> 
+                          <img className={`mx-2 ${h.imgClass}`} src={`${window.location.origin}/icons/${h.icon}.svg`} alt={h.text} />
                         </span>
                         <div>{h.text}</div>
                       </div>
