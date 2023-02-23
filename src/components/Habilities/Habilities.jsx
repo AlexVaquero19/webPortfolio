@@ -6,7 +6,7 @@ function Habilities(){
   const [habilities, setHabilities] = useState([])
 
   useEffect(() => {
-    API.getHabilities("habilities").then(setHabilities)
+    API.getHabilities().then(setHabilities)
   }, [])
 
   return(
